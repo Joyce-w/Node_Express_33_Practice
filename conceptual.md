@@ -30,3 +30,9 @@ async function getUsers() {
   return [elie, matt, joel];
 }
 ```
+
+
+<!-- Time taken to complete 
+Conceptual questions: 1hr
+urls.js scripting: < ~3hrs
+-->
